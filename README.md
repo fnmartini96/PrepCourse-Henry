@@ -1,1 +1,1 @@
-Este proyecto es un repositorio de como crear un repositorio y clonarlo desde github a mi computadora.
+Este proyecto es un repositorio de como crear un repositorio y clonarlo desde github a mi computadora 2
